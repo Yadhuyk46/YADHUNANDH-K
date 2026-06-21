@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Yadhunandh K 👋
 
-<!--
-**Yadhuyk46/Yadhuyk46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year BCA Student
 
-Here are some ideas to get you started:
+☁️ Cloud Computing Intern at IIIT Kottayam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Developer
+
+🚀 Aspiring Software Developer & DevOps Engineer
+
+## About Me
+
+- Final-year Bachelor of Computer Applications (BCA) student
+- Cloud Computing Intern at IIIT Kottayam
+- Skilled in Python, SQL, Docker, Kubernetes, and Data Analysis
+- Passionate about Software Development, Cloud Computing, and DevOps
+- Seeking entry-level opportunities in Software Development and Cloud Engineering
+
+## Technical Skills
+
+- Python
+- SQL
+- Docker
+- Kubernetes
+- Cloud Computing
+- Git & GitHub
+- HTML & CSS
+- Data Analysis
+- Machine Learning Fundamentals
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/yadhu05
+
+Email: yadhuyk46@gmail.com
