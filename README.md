@@ -10,7 +10,7 @@
 
 ## About Me
 
-- Final-year Bachelor of Computer Applications (BCA) student
+- Bachelor of Computer Applications (BCA) Graduate
 - Cloud Computing Intern at IIIT Kottayam
 - Skilled in Python, SQL, Docker, Kubernetes, and Data Analysis
 - Passionate about Software Development, Cloud Computing, and DevOps
