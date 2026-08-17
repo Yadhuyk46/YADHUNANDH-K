@@ -1,6 +1,6 @@
 # Hi, I'm Yadhunandh K 👋
 
-🎓 Final-Year BCA Student
+🎓 BCA Graduate
 
 ☁️ Cloud Computing Intern at IIIT Kottayam
 
